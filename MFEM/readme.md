@@ -1,0 +1,10 @@
+## MFEM
+
+Description from the [MFEM project page](https://mfem.org/):
+
+    "MFEM is a free, lightweight, scalable C++ library for finite element methods."
+
+
+### Links
+- [GitHub Page](https://github.com/mfem/mfem)
+- [PyMFEM](https://github.com/mfem/PyMFEM): Python wrapper
