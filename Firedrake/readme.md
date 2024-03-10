@@ -1,11 +1,11 @@
-# Firedrake
+## Firedrake
 
 ### Overview
 Description from the [Firedrake project page](https://www.firedrakeproject.org/):
 
-    "Firedrake is an automated system for the solution of partial differential equations using the finite element method (FEM). Firedrake uses sophisticated code generation to provide mathematicians, scientists, and engineers with a very high productivity way to create sophisticated high performance simulations."
-
-
+```quote
+"Firedrake is an automated system for the solution of partial differential equations using the finite element method (FEM). Firedrake uses sophisticated code generation to provide mathematicians, scientists, and engineers with a very high productivity way to create sophisticated high performance simulations."
+```
 
 ### Links:
 - [GitHub page](https://github.com/firedrakeproject/firedrake)

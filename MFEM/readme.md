@@ -1,9 +1,12 @@
 ## MFEM
 
+### Overview
+
 Description from the [MFEM project page](https://mfem.org/):
 
-    "MFEM is a free, lightweight, scalable C++ library for finite element methods."
-
+```quote
+"MFEM is a free, lightweight, scalable C++ library for finite element methods."
+```
 
 ### Links
 - [GitHub Page](https://github.com/mfem/mfem)
