@@ -1,0 +1,1 @@
+This repository contains documentation and examples compiled in order to evaluate various finite element frameworks for use in the modelling of tokamak exhaust physics.
