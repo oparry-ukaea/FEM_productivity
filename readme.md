@@ -1,12 +1,12 @@
 This repository contains documentation and examples compiled in order to evaluate various finite element frameworks for use in the modelling of tokamak exhaust physics.
 
 
-- [DUNE](./DUNE/readme.md)
-- [FEniCSx](FEniCSx/readme.md)
-- [Firedrake](./Firedrake/readme.md)
-- [MFEM](./MFEM/readme.md)
-- [Moose](./MOOSE/readme.md)
-- [Nektar++](./nektar++/readme.md)
+- [DUNE](./DUNE/readme)
+- [FEniCSx](FEniCSx/readme)
+- [Firedrake](./Firedrake/readme)
+- [MFEM](./MFEM/readme)
+- [Moose](./MOOSE/readme)
+- [Nektar++](./nektar++/readme)
 
 ---
 
