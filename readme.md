@@ -7,3 +7,7 @@ This repository contains documentation and examples compiled in order to evaluat
 - [MFEM](./MFEM/readme.md)
 - [Moose](./MOOSE/readme.md)
 - [Nektar++](./nektar++/readme.md)
+
+---
+
+[Overall ratings](docs/ratings)
