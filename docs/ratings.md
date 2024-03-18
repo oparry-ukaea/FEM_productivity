@@ -9,3 +9,4 @@
 | MFEM      |      X       |      X       |   X   |       X        |
 | nektar++  |      X       |      X       |   X   |       X        |
 | NGSolve   |      X       |      X       |   X   |       X        |
+| Trixi     |      X       |      X       |   X   |       X        |

@@ -7,6 +7,7 @@ This repository contains documentation and examples compiled in order to evaluat
 - [MFEM](./MFEM/readme)
 - [Moose](./MOOSE/readme)
 - [Nektar++](./nektar++/readme)
+- [Trixi](./Trixi/readme)
 
 ---
 
