@@ -2,6 +2,9 @@
 # FEniCSx
 
 ## Overview
+Description from the [FEniCSx project page](https://fenicsproject.org/):
+
+> "FEniCS is a popular open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM). FEniCS enables users to quickly translate scientific models into efficient finite element code. With the high-level Python and C++ interfaces to FEniCS, it is easy to get started, but FEniCS offers also powerful capabilities for more experienced programmers. FEniCS runs on a multitude of platforms ranging from laptops to high-performance computers."
 
 FEniCSx has the following components:
 - [basix](https://github.com/FEniCS/basix): "a finite element definition and tabulation runtime library"
