@@ -14,3 +14,5 @@ FEniCSx has the following components:
 ### Installation
 
 ## Links
+
+- [Instructions](https://fenicsproject.org/download/)

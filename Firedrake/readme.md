@@ -16,3 +16,4 @@ Description from the [Firedrake project page](https://www.firedrakeproject.org/)
 - [GitHub page](https://github.com/firedrakeproject/firedrake)
 - [Irkesome](https://github.com/firedrakeproject/Irksome): Time-stepping package used to generate Runge Kutta methods for Firedrake
 - [firedrakeproject/ufl](https://github.com/firedrakeproject/ufl): A fork of [FEniCS/UFL](https://github.com/fenics/ufl) - used to provide a DSL for building Firedrake solvers
+- [Installation](https://www.firedrakeproject.org/download.html)

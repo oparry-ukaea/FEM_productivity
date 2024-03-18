@@ -14,4 +14,5 @@ Description from the [DUNE project page](https://www.dune-project.org/):
 
 ## Links
 
+- [Installation](https://www.dune-project.org/doc/installation/)
 - [Core modules on GitLab](https://gitlab.dune-project.org/core/)

@@ -16,3 +16,4 @@ Description from the [nektar++ project page](https://www.nektar.info/):
 - [GitLab page](https://gitlab.nektar.info/nektar/nektar)
 - [Developer guide](https://doc.nektar.info/developerguide/latest/)
 - [User guide](https://doc.nektar.info/userguide/latest/)
+- [Installation](https://doc.nektar.info/userguide/latest/user-guidech2.html#user-guidese1.html)

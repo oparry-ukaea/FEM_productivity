@@ -17,3 +17,4 @@ Description from the [NGSolve project page](https://ngsolve.org/):
 - [NetGen](https://github.com/NGSolve/netgen) mesh generator
 - [GUI](https://github.com/NGSolve/ngsgui)
 - [Documentation](https://docu.ngsolve.org/latest/)
+- [Installation](https://ngsolve.org/downloads)

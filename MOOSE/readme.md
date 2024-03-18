@@ -13,8 +13,12 @@ Description from the [MOOSE project webpage](https://mooseframework.inl.gov/):
 ### Dependencies
 
 ### Installation
+- Install miniForge (900 MB)
+- Add INL conda channel
+- Install MOOSE
 
 
 ## Links
 
 - [Examples and Tutorials](https://mooseframework.inl.gov/getting_started/examples_and_tutorials/index.html)
+- [Installation](https://mooseframework.inl.gov/getting_started/installation/index.html)

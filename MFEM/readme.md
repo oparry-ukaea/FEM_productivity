@@ -12,3 +12,4 @@ Description from the [MFEM project page](https://mfem.org/):
 
 - [GitHub Page](https://github.com/mfem/mfem)
 - [PyMFEM](https://github.com/mfem/PyMFEM): Python wrapper
+- [Installation](https://github.com/mfem/mfem/blob/master/INSTALL)
