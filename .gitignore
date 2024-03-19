@@ -130,3 +130,4 @@ dmypy.json
 
 # Intermediate/Output formats
 *.msh
+*.vtu
