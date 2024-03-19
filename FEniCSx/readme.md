@@ -16,6 +16,14 @@ FEniCSx has the following components:
 
 ### Installation
 
+- Conda
+
+```bash
+conda create -n fenicsx-env
+conda activate fenicsx-env
+conda install -c conda-forge fenics-dolfinx mpich pyvista
+```
+
 ## Links
 
 - [Instructions](https://fenicsproject.org/download/)
