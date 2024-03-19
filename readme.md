@@ -11,4 +11,5 @@ This repository contains documentation and examples compiled in order to evaluat
 
 ---
 
+[General info](docs/info)
 [Overall ratings](docs/ratings)
