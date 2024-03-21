@@ -9,7 +9,16 @@ Description from the [Firedrake project page](https://www.firedrakeproject.org/)
 
 ## Review 
 
+Tight integration with PETSc - effectively write callback functions for it in C, translated from user Python
+No postproc tools at first glance - just generates vtk and relies on ParaView.
+Surprisingly difficult to infer from the docs that its doing code gen
+Parallelism all handled under-the-hood; 
+
 ### Installation
+
+System install of several dependencies...
+
+- PETSc
 
 ## Links
 
