@@ -1,4 +1,4 @@
-[Home](../readme)
+[Home](../readme.md)
 # nektar++
 
 ## Overview

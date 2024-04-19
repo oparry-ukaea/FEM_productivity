@@ -1,4 +1,4 @@
-[Home](../readme)
+[Home](../readme.md)
 
 # Ratings 
 | Item      | Dependencies | Installation |  API  | Analysis tools | Documentation |

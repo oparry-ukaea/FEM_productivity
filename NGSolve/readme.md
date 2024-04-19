@@ -1,4 +1,4 @@
-[Home](../readme)
+[Home](../readme.md)
 # NGSolve
 
 ## Overview
